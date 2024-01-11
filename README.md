@@ -4,12 +4,12 @@
 
 
 🔭 I’m currently working on Fiverr.https://www.fiverr.com/users/muhsindeveloper/seller_dashboard
-- 🌱 I’m currently learning **VueJs Framework**
+- 🌱 I’m currently learning **Dev oops and Aws**
 
 -  📝 my linkedin profile https://www.linkedin.com/in/mohsinnazeer/
 
 
-- 💬 Ask me about **Laravel Framewrok,js framework Databases, and Bootstrap**
+- 💬 Ask me about **Laravel Framewrok,js framework(Node js),Databases,Vue js ,React js**
 
 - 📫 How to reach me **nazeermohsin187@gmail.com**
 
