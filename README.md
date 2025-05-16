@@ -30,7 +30,7 @@ I specialize in crafting robust web applications with modern technologies. My co
 
 Have a project in mind? Let’s connect to bring your ideas to life!
 
----
+-----------------
 
 ### 🌐 Connect with Me
 <p align="left">
@@ -42,7 +42,7 @@ Have a project in mind? Let’s connect to bring your ideas to life!
   </a>
 </p>
 
----
+---------------------
 
 ### 🛠️ Languages & Tools
 <p align="left">
